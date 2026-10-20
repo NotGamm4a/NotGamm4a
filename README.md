@@ -75,16 +75,6 @@ Progress
 
 ---
 
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NotGamm4a&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Activity Graph
 
 <div align="center">
