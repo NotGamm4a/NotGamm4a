@@ -1,149 +1,189 @@
-<h1 align="center">¡Hola! 👋 Soy Jesús Gammael Soto Escalante</h1>
+# Jesús Gammael Soto Escalante
 
-<h3 align="center">
-🎓 Estudiante de Ingeniería en Software | 📱 Android Developer | 🎵 Music Producer | 🚀 Tech Enthusiast
-</h3>
+```bash
+gammael@github:~$ whoami
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+en+Formación;Desarrollador+Android+con+Kotlin;Apasionado+por+el+Backend+y+Bases+de+Datos;Productor+Musical+Independiente;Siempre+Aprendiendo+Algo+Nuevo+🚀" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 Sobre mí
-
-```kotlin
-val gammael = Developer(
-    nombre = "Jesús Gammael Soto Escalante",
-    universidad = "ITSON",
-    carrera = "Ingeniería en Software",
-    ubicacion = "Sonora, México",
-    lenguajes = listOf("Kotlin", "Java", "Python", "TypeScript"),
-    intereses = listOf(
-        "Android Development",
-        "Backend",
-        "Bases de Datos",
-        "Arquitectura de Software",
-        "Tecnología",
-        "Música"
-    ),
-    meta = "Convertirme en un gran ingeniero de software 🚀"
-)
+Name............. Jesús Gammael Soto Escalante
+Role............. Software Engineering Student
+University....... ITSON
+Location......... Sonora, México
+Focus............ Android • Backend • Databases
+Additional....... Music Producer
+Status........... Building, learning and improving every day
 ```
 
-### 🚀 Actualmente
+---
 
-- 📱 oid con Kotlin
-- 🎓 Estudiando Ingeniería en Software
-- 🗄️ Aprendiendo más sobre bases de datos y backend
-- 🌐 Mejorando habilidades en desarrollo web
-- 🎵 Produciendo música y trabajando en proyectos creativos
+## ● ABOUT
+
+I'm a Software Engineering student passionate about building software that solves real problems.
+
+My interests revolve around Android development, backend systems, databases and software architecture. I enjoy understanding how things work under the hood and turning ideas into usable applications.
+
+Outside of software development, I work on music production projects where technology and creativity meet.
 
 ---
 
-## 🛠️ Tecnologías
+## ● CURRENT FOCUS
 
-### Lenguajes
+```text
+📱 Android Development
+   └─ Kotlin
+   └─ Android Studio
+   └─ REST APIs
+   └─ Material Design
 
-<p>
-https://skillicons.dev/icons?i=kotlin,java,python,typescript,html,css
-</p>
+🗄️ Backend Development
+   └─ Database Design
+   └─ API Development
+   └─ Software Architecture
 
-### Herramientas
-
-<p>
-https://skillicons.dev/icons?i=androidstudio,git,github,vscode,mysql,idea
-</p>
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight
-</p>
+🎓 Academic Growth
+   └─ Data Structures
+   └─ Algorithms
+   └─ UML Modeling
+   └─ Software Engineering
+```
 
 ---
 
-## 🔥 Racha de Contribuciones
+## ● EDUCATION
 
-<p align="center">
-https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true
-</p>
+### Instituto Tecnológico de Sonora (ITSON)
 
----
+**Bachelor's Degree in Software Engineering**
 
-## 🏆 Trofeos GitHub
+```text
+Jul 2024                                    Dec 2028
+├─────────────────────────────────────────────┤
+██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 57%
+```
 
-<p align="center">
-https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=7
-</p>
+Current Areas of Study
 
----
-
-## 📈 Actividad
-
-<p align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night
-</p>
-
----
-
-## 🎯 Objetivos
-
-✅ Dominar Kotlin y Android
-
-✅ Profundizar en Arquitectura de Software
-
-✅ Convertirme en Backend Developer
-
-✅ Crear proyectos que impacten personas
-
-✅ Seguir creciendo como productor musical
-
-✅ Terminar mi carrera con excelentes habilidades técnicas
+`Software Architecture`
+`Software Design`
+`Algorithm Analysis`
+`Data Structures`
+`Databases`
+`Mobile Development`
 
 ---
 
-## 🎵 Más Allá del Código
+## ● TECH STACK
 
-Cuando no estoy programando probablemente estoy:
+### Languages
 
-🎹 Produciendo música
+```text
+Java          ██████████
+Kotlin        ██████████
+Python        ████████
+TypeScript    ███████
+HTML          █████████
+CSS           █████████
+```
 
-🎧 Mezclando y masterizando
+### Tools
 
-🚗 Aprendiendo sobre automóviles
-
-📚 Investigando nuevas tecnologías
-
-☕ Escuchando música mientras programo
-
----
-
-## 🌎 Conecta Conmigo
-
-<p align="center">
-https://github.com/TU_USUARIO
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-</a>
-
-https://linkedin.com/in/TU_LINKEDIN
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
-
-TU_CORREO
-https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-</a>
-</p>
+```text
+Android Studio
+Git
+GitHub
+IntelliJ IDEA
+MySQL
+VS Code
+```
 
 ---
 
-<p align="center">
-https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=flat
-</p>
+## ● HOW I BUILD
 
-<h3 align="center">
-💡 "La mejor forma de predecir el futuro es construirlo."
-</h3>
+```text
+Requirements
+     │
+     ▼
+Analysis
+     │
+     ▼
+Design
+(UML & Architecture)
+     │
+     ▼
+Implementation
+     │
+     ▼
+Testing
+     │
+     ▼
+Iteration
+     │
+     ▼
+Deployment
+```
+
+My goal is to create maintainable software by understanding requirements first, designing clear solutions and focusing on continuous improvement.
+
+---
+
+## ● INTERESTS
+
+```text
+Software Engineering
+Android Development
+Backend Systems
+Database Design
+Technology
+Artificial Intelligence
+Music Production
+Audio Engineering
+Automotive Enthusiast
+```
+
+---
+
+## ● PROJECT PHILOSOPHY
+
+```txt
+Build > Learn > Improve > Repeat
+```
+
+I believe that the best way to grow as an engineer is by building projects, making mistakes, learning from them and applying those lessons to the next challenge.
+
+---
+
+## ● CURRENT OBJECTIVES
+
+```text
+[✓] Strengthen Kotlin skills
+[✓] Improve software design knowledge
+[✓] Build Android projects
+[ ] Master backend development
+[ ] Contribute to larger software projects
+[ ] Become a professional Software Engineer
+```
+
+---
+
+## ● GITHUB STATS
+
+<!-- Replace YOUR_USERNAME -->
+
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true
+
+---
+
+## ● CONTACT
+
+```bash
+GitHub    → https://github.com/YOUR_USERNAME
+LinkedIn  → https://linkedin.com/in/YOUR_LINKEDIN
+Email     → your.email@example.com
+```
+
+---
+
+```text
+"The best way to predict the future is to build it."
+```
