@@ -66,7 +66,7 @@ val gammael = Developer(
 Software Engineering
 
 ```text
-2024 ──────────────────────────────── 2028
+2023 ──────────────────────────────── 2027
 
 Progress
 
